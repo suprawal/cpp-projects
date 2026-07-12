@@ -16,7 +16,7 @@ int compare(const void *a, const void *b) {
 
 int main() {
     int n;
-
+ int m;
     printf("Enter number of jobs: ");
     scanf("%d", &n);
 
